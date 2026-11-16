@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Изучить архитектуру Bulletproof React",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Сравнить Bulletproof React с FSD",
+      "completed": false
+    }
+  ]
+}
